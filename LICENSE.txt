@@ -1,0 +1,1 @@
+By installing this extension, you agree to the Datadog End-User License Agreement. You can view the agreement here: https://www.datadoghq.com/legal/eula/
